@@ -21,7 +21,7 @@ Delegation of tasks:
 lowtiergod is my muse. do not trust me around nuclear weapons.
 - gay brie L
    - something
- - rye and
+###### rye and
    - drivetrain probably :)
 
 ![block diagram](https://i.ibb.co/cYLWJjq/Screenshot-2023-01-27-3-08-43-PM.png)
