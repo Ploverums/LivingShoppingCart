@@ -13,9 +13,9 @@ List of planned shopping cart features:
 
 Delegation of tasks:
 - no uhm swiss
-   -
+   - something
 - gay brie L
-   - 
+   - something
 - rye and
    - drivetrain probably :)
 
