@@ -13,7 +13,8 @@ List of planned shopping cart features:
 
 Delegation of tasks:
 - no uhm swiss
-   - something
+![me almost running into an ambulance](https://media.tenor.com/uYk94xeCMZ4AAAAd/slipped-on-a-banan-slipped-on-a-banana.gif)
+lowtiergod is my muse. do not trust me around nuclear weapons.
 - gay brie L
    - something
 - rye and
