@@ -31,3 +31,4 @@ lowtiergod is my muse. do not trust me around nuclear weapons.
 | Shopping cart | 1 | ??? | legal means |
 | Ducks | as many as possible | Free | the park |
 | High Rise Apartment in Pakistan | 1 | 623 USD per month (167,898.50 PKR) | Karachi |
+| 360 degree Lidar | 1 | tbd | amazon probably |
