@@ -17,7 +17,7 @@ Delegation of tasks:
 - gay brie L
    - 
 - rye and
-   -
+   - drivetrain probably :)
 
 ![block diagram](https://i.ibb.co/cYLWJjq/Screenshot-2023-01-27-3-08-43-PM.png)
 
