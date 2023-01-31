@@ -14,7 +14,7 @@ List of planned shopping cart features:
 
 ![block diagram](https://i.ibb.co/cYLWJjq/Screenshot-2023-01-27-3-08-43-PM.png)
 
-| Item | Cost | Location to purchase |
-|------|------|----------------------|
-|Shopping cart| ??? | legal means |
-|Ducks| Free | the park|
+| Item | Cost | Amount | Location to purchase |
+|------|------| ------- |----------------------|
+|Shopping cart| 1 | ??? | legal means |
+|Ducks| as many as possible | Free | the park|
