@@ -14,8 +14,8 @@ List of planned shopping cart features:
 
 ![block diagram](https://i.ibb.co/cYLWJjq/Screenshot-2023-01-27-3-08-43-PM.png)
 
-| Item | Amound | Cost | Location to purchase |
+| Item | Amount | Cost | Location to purchase |
 |------|------| ------- |----------------------|
 | Shopping cart | 1 | ??? | legal means |
 | Ducks | as many as possible | Free | the park |
-| Lottery Tickets | 1 dollar per | gas station |
+| High Rise Apartment in Pakistan | 1 | 623 USD per month (167,898.50 PKR) | Karachi |
