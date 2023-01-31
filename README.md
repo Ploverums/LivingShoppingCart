@@ -12,8 +12,12 @@ List of planned shopping cart features:
 - UWB triangulation
 
 Delegation of tasks:
-- no uhm swiss
+# no uhm swiss
+
+
 ![me almost running into an ambulance](https://media.tenor.com/uYk94xeCMZ4AAAAd/slipped-on-a-banan-slipped-on-a-banana.gif)
+
+
 lowtiergod is my muse. do not trust me around nuclear weapons.
 - gay brie L
    - something
