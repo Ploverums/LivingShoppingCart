@@ -17,3 +17,4 @@ List of planned shopping cart features:
 | Item | Cost | Location to purchase |
 |------|------|----------------------|
 |Shopping cart| ??? | legal means |
+|Ducks| Free | the park|
