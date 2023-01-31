@@ -12,11 +12,11 @@ List of planned shopping cart features:
 - UWB triangulation
 
 Delegation of tasks:
- - no uhm swiss
+- no uhm swiss
    -
- - gay brie L
+- gay brie L
    - 
- - rye and
+- rye and
    -
 
 ![block diagram](https://i.ibb.co/cYLWJjq/Screenshot-2023-01-27-3-08-43-PM.png)
